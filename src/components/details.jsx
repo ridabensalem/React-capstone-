@@ -20,6 +20,15 @@ function Details({ symbol }) {
   if (!Object.keys(company).length) {
     return (
       <section className="animated">
+
+
+
+
+
+
+
+
+        
         <header>
           <div>
             <NavLink to={url}>
